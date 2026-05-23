@@ -1,0 +1,25 @@
+<funcionarios>
+    <funcionario matricula="001">
+        <nome>Eliana</nome>
+        <setor>TI</setor>
+        <nivel>3</nivel>
+    </funcionario>
+
+    <funcionario matricula="002">
+        <nome>Pauliane</nome>
+        <setor>TI</setor>
+        <nivel>4</nivel>
+    </funcionario>
+
+    <funcionario matricula="003">
+        <nome>Mohamed</nome>
+        <setor>TI</setor>
+        <nivel>5</nivel>
+    </funcionario>
+
+    <funcionario matricula="004">
+        <nome>Rafael</nome>
+        <setor>TI</setor>
+        <nivel>2</nivel>
+    </funcionario>
+</funcionarios>
