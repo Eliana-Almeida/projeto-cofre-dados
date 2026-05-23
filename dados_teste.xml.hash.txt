@@ -1,0 +1,2 @@
+Arquivo original: dados_teste.xml
+Hash SHA-256: b3a84c90a82238983af8d4184b19cf616ba8b72caccaaa34c4ae53870212d5fe

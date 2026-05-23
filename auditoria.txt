@@ -11,3 +11,7 @@
 [2026-05-22 22:06:58] O arquivo dados_teste.xml foi visualizado.
 [2026-05-22 22:18:21] Arquivo copiado e criptografado de C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml para C:\Users\elian\OneDrive\Área de Trabalho\dados_teste.xml.enc. Hash: 11de803ef2d5083feafc06d1e70b5fc95afa1cab8996167b5993513f62e7038a
 [2026-05-22 22:30:23] Sistema iniciado.
+[2026-05-22 23:14:16] Sistema iniciado.
+[2026-05-22 23:15:02] Arquivo selecionado: C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml
+[2026-05-22 23:15:07] O arquivo dados_teste.xml foi visualizado.
+[2026-05-22 23:15:30] Arquivo copiado e criptografado de C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml para C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml.enc. Hash: b3a84c90a82238983af8d4184b19cf616ba8b72caccaaa34c4ae53870212d5fe
