@@ -1,1 +1,13 @@
 [2026-05-22 21:05:57] Sistema iniciado.
+[2026-05-22 21:37:37] Sistema iniciado.
+[2026-05-22 22:00:30] Sistema iniciado.
+[2026-05-22 22:01:58] Sistema iniciado.
+[2026-05-22 22:02:23] Arquivo selecionado: C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml
+[2026-05-22 22:04:37] Sistema iniciado.
+[2026-05-22 22:04:57] Arquivo selecionado: C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml
+[2026-05-22 22:05:02] O arquivo dados_teste.xml foi visualizado.
+[2026-05-22 22:06:48] Sistema iniciado.
+[2026-05-22 22:06:56] Arquivo selecionado: C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml
+[2026-05-22 22:06:58] O arquivo dados_teste.xml foi visualizado.
+[2026-05-22 22:18:21] Arquivo copiado e criptografado de C:\Users\elian\OneDrive\Área de Trabalho\cofre_dados\dados_teste.xml para C:\Users\elian\OneDrive\Área de Trabalho\dados_teste.xml.enc. Hash: 11de803ef2d5083feafc06d1e70b5fc95afa1cab8996167b5993513f62e7038a
+[2026-05-22 22:30:23] Sistema iniciado.
